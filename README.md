@@ -1,1 +1,1 @@
-# Denavit_Hartenberg_parameters
+# Denavit_Hartenberg_parameters (DH)
