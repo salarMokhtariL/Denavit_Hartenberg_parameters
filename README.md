@@ -1,6 +1,9 @@
 # robot controller
 
 ## Salar Mokhtari Laleh
+
+Email : salarmokhtari0@gmail.com
+
 in Matlab
 
 
